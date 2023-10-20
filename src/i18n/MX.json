@@ -1,0 +1,30 @@
+{
+    "translation": {
+      "app_name": "Custom Restaurant",
+      "currency": {
+        "symbol": "$",
+        "code": "MXN"
+      },
+      "momentLocale": "es-mx",
+      "moment_format_notification": "ddd D [de] MMMM H:mm [h]",
+      "moment_format_access_log": "D MMM yyyy,H:mm [h]",
+      "moment_format_b2b": "D MMM yyyy",
+      "phone_number": {
+        "country_code": "+52",
+        "max_length": 10,
+        "spacing_format": [2, 7]
+      },
+      "distance": {
+        "km": "km",
+        "m": "m"
+      },
+      "language": "es",
+      "auth":{
+        "loginScreen":{
+            "emailInput":"Email",
+            "passwordInput":"Contraseña"
+        }
+      }
+    }
+  }
+  
